@@ -9,6 +9,7 @@ A development boilerplate for React Applications with CSS Modules
 - npm run dev: To run the application in hot reload mode
 
 ## To Do's
+- Add simple example using Redux
 - Add FlowType checker
 - Add Enzyme Unit test initial examples
 
