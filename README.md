@@ -1,5 +1,8 @@
 # React Dev Boilerplate
 
+There is a better boilerplate in [this repo](https://github.com/marcosaftertype/React-Redux-App-Boilerplate)!
+https://github.com/marcosaftertype/React-Redux-App-Boilerplate
+
 A development boilerplate for React Applications with CSS Modules
 
 ## How to use
